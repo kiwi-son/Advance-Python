@@ -1,5 +1,5 @@
 from functools import reduce
-num=[1,2,3,45]
+num=[0,1,2,3,45]
 
 # def square(x):
 #     return x*x
